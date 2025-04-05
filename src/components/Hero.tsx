@@ -1,7 +1,6 @@
 import React from 'react';
 import { Typography, Paper, Box, useTheme, useMediaQuery } from '@mui/material';
 import { motion } from 'framer-motion';
-import CodeIcon from '@mui/icons-material/Code';
 import DownloadIcon from '@mui/icons-material/Download';
 import EmailIcon from '@mui/icons-material/Email';
 

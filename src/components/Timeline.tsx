@@ -4,7 +4,6 @@ import {
   Paper,
   Typography,
   useTheme,
-  Divider,
 } from '@mui/material';
 import { motion } from 'framer-motion';
 

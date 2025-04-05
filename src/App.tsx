@@ -53,23 +53,6 @@ const achievementsData = [
   },
 ];
 
-const experienceData = [
-  {
-    company: 'NTTF College',
-    location: 'Bengaluru, India',
-    position: 'Skill Development Course',
-    period: 'November 2024 - February 2025',
-    description: 'Advanced training in modern software development practices and technologies',
-  },
-  {
-    company: 'Tech Solutions Inc.',
-    location: 'Remote',
-    position: 'Full Stack Developer',
-    period: '2023 - Present',
-    description: 'Developing and maintaining web applications using React, Node.js, and AWS',
-  },
-];
-
 const App: React.FC = () => {
   const [themeMode, setThemeMode] = useState<'light' | 'dark'>('light');
 
